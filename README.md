@@ -6,6 +6,12 @@ A collection of copy-paste prompts that transform ChatGPT, Claude, or any AI int
 
 No expertise required on your part - just honest answers to targeted questions.
 
+## The Philosophy
+
+These prompts are based on a simple principle: **the quality of AI output depends entirely on the quality of context you provide**. 
+
+Most people don't know what context to give. These prompts solve that by systematically extracting optimal context through expert-designed discovery processes.
+
 ## How It Works
 
 1. **Copy** any prompt from this repository
@@ -62,12 +68,6 @@ The AI will ask questions one at a time, summarize understanding, then deliver c
 - Specific explanation of each improvement made
 - Actionable writing tips for future use
 - Tone and clarity optimization
-
-## The Philosophy
-
-These prompts are based on a simple principle: **the quality of AI output depends entirely on the quality of context you provide**. 
-
-Most people don't know what context to give. These prompts solve that by systematically extracting optimal context through expert-designed discovery processes.
 
 ## Contributing
 
